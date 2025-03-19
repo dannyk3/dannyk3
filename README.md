@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Daniela @dannyk3
 - 👀 I’m interested in starting my tech journey and work with Cybersecurity someday
-- 🌱 I’m currently learning Python
 - 📫 You can email me at danielalitins@gmail.com
 
 <!---
